@@ -10,19 +10,19 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":"23612641"
+            "value":"23537514"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-                    "value":"f7ef90c733241bdc2977e3fcc53df5b7"
+                    "value":"c5ec016af7d2cb637278b715f4f5a389"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"7603563636:AAEUzI_OhZdyPMa-x2Qz838va8LXnaTu9qU"
+            "value":"7651473687:AAHQIs9zc8IBbIzRqYU-EVuKT93C3TIfmKI"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-             "value":"7769588492,794443074,7119681131,-1002411715384,-1002302908891"
+             "value":"7134852010,-1002630070453"
 
         }
     },
